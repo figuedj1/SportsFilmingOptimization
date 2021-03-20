@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./static/js",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "CommonJS",
+        "target": "es6",
+        "jsx": "react",
+        "esModuleInterop": true,
+    }
+}
